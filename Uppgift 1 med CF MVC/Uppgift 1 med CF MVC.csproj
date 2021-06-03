@@ -5,4 +5,11 @@
     <RootNamespace>Uppgift_1_med_CF_MVC</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Include="wwwroot\Content\images\flowers\cherry.jpg" />
+    <None Include="wwwroot\Content\images\flowers\cosmos.jpg" />
+    <None Include="wwwroot\Content\images\flowers\dahlia.jpg" />
+    <None Include="wwwroot\Content\images\flowers\lotus.jpg" />
+  </ItemGroup>
+
 </Project>

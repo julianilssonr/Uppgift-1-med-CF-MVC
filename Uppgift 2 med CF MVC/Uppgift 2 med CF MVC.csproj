@@ -1,0 +1,8 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Uppgift_2_med_CF_MVC</RootNamespace>
+  </PropertyGroup>
+
+</Project>

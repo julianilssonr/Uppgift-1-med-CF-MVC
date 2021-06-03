@@ -27,5 +27,12 @@ namespace Uppgift_1_med_CF_MVC.Controllers
         {
             return View();
         }
+
+        //use parameter to pass in photo id
+        public ActionResult photoView(string id)
+        {
+            ViewBag.photo = id;
+            return View();
+        }
     }
 }

@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.31313.79
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Uppgift 1 med CF MVC", "Uppgift 1 med CF MVC\Uppgift 1 med CF MVC.csproj", "{C1155C9E-04DB-41D2-9EA5-01050490580C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uppgift 2 MVC med CF", "Uppgift 2 MVC med CF\Uppgift 2 MVC med CF.csproj", "{02EFCCF9-CB01-49E3-85CB-5216FE460BD1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uppgift 2 med CF MVC", "..\Uppgift 2 med CF MVC\Uppgift 2 med CF MVC\Uppgift 2 med CF MVC.csproj", "{F9480B68-671A-479F-A07B-4752DF9E1A54}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{C1155C9E-04DB-41D2-9EA5-01050490580C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C1155C9E-04DB-41D2-9EA5-01050490580C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C1155C9E-04DB-41D2-9EA5-01050490580C}.Release|Any CPU.Build.0 = Release|Any CPU
-		{02EFCCF9-CB01-49E3-85CB-5216FE460BD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{02EFCCF9-CB01-49E3-85CB-5216FE460BD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{02EFCCF9-CB01-49E3-85CB-5216FE460BD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{02EFCCF9-CB01-49E3-85CB-5216FE460BD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9480B68-671A-479F-A07B-4752DF9E1A54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9480B68-671A-479F-A07B-4752DF9E1A54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9480B68-671A-479F-A07B-4752DF9E1A54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9480B68-671A-479F-A07B-4752DF9E1A54}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

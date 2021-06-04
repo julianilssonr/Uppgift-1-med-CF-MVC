@@ -8,6 +8,7 @@ namespace Uppgift_1_med_CF_MVC.Controllers
 {
     public class PhotosController : Controller
     {
+        //test kommentar
         public IActionResult Index()
         {
             return View();
